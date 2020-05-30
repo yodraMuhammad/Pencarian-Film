@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+}
+.navbar-brand{
+    font-family: viga;
+    font-size: 25px;
+}
+#card{
+    margin-top: 100px;
+    border-radius: 8px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.45);
+    margin: 6rem auto 8.1rem auto;
+}
+#submit-btn{
+    width: 100%;
+}
+.navbar{
+    position: fixed ;
+    z-index: 5;
+    width: 100%;
+    top: 0;
+}
+.list{
+    margin-top: 70px;
+}
